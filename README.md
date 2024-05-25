@@ -1,12 +1,12 @@
-Calculator with Dark/Light Mode
+# Calculator with Dark/Light Mode
 This is a simple calculator application with a toggle feature to switch between dark and light modes. It supports basic arithmetic operations and has a clean, responsive design.
 
-Features
+# Features
 Basic arithmetic operations: addition, subtraction, multiplication, and division
 Clear display and delete last entry functionalities
 Toggle between dark and light modes
 Responsive and user-friendly interface
-Installation
+# Installation
 Clone the repository:
 bash
 Copy code
